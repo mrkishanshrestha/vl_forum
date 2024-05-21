@@ -1,4 +1,4 @@
-  <?php require_once('./config.php') ?>
+  <?php die("kishan"); require_once('./config.php') ?>
   <?php require_once('inc/sess_auth.php') ?>
   <!DOCTYPE html>
   <html lang="en" class="" style="height: auto;">
