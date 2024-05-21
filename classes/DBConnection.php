@@ -4,7 +4,6 @@ if(!defined('DB_SERVER')){
 }
 class DBConnection{
 
-    die("asdas");
     private $host = DB_SERVER;
     private $username = DB_USERNAME;
     private $password = DB_PASSWORD;
