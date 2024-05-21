@@ -1,8 +1,8 @@
   <?php require_once('./config.php') ?>
-  <?php require_once('inc/sess_auth.php') ?>
+  <?php die("kishan is great ");  require_once('inc/sess_auth.php') ?>
   <!DOCTYPE html>
   <html lang="en" class="" style="height: auto;">
-  <?php die("kishan is great ");  require_once('inc/header.php') ?>
+  <?php  require_once('inc/header.php') ?>
 <body class="hold-transition login-page">
 
   <style>
