@@ -4,6 +4,7 @@ if(!defined('DB_SERVER')){
 }
 class DBConnection{
 
+    die("asdas");
     private $host = DB_SERVER;
     private $username = DB_USERNAME;
     private $password = DB_PASSWORD;
@@ -19,6 +20,7 @@ class DBConnection{
             
             if (!$this->conn) {
                 echo 'Cannot connect to database server';
+                die;
                 exit;
             }            
         }    
