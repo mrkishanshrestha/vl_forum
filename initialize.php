@@ -1,5 +1,5 @@
 <?php
-if(!defined('base_url')) define('base_url','http://localhost');
+if(!defined('base_url')) define('base_url','https://kishan.vantageloaf.work/');
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 if(!defined('DB_SERVER')) define('DB_SERVER',"localhost");
 if(!defined('DB_USERNAME')) define('DB_USERNAME',"u221140984_vl_db_admin");
