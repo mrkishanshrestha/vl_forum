@@ -33,7 +33,7 @@
 				<thead>
 					<tr>
 						<th>#</th>
-						<th>Date Updated</th>
+						<th>Date </th>
 						<th>Avatar</th>
 						<th>Name</th>
 						<th>Username</th>
